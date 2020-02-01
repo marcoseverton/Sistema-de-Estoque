@@ -1,0 +1,50 @@
+.jumbotron{
+	text-align: center;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	color: #035603;
+}
+.table{
+	margin-top: 20px;
+}
+.tr-itens{
+	color: #175413;
+}
+.input-output{
+	margin-top: 40px;
+}
+.form-control{
+	margin-bottom: 8px;
+}
+.selecionado{
+	background-color: #460d0d;
+	color: #cfecd6;
+}
+
+.negrito{
+	font-weight: bold;
+}
+.alert{
+	color: #ff0000;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.alertrequired{
+	background-color: #dffd8d;
+}
+.linha{
+	width: 100%; 
+	height: 1px; 
+	background-color: #9a9ea2;
+}
+.formulario{
+	margin-top: 50px;
+}
+.pesquisa{
+	margin-top: 30px;
+	margin-bottom: 50px;
+	width: 270px;
+	margin-left: 250px; 
+}

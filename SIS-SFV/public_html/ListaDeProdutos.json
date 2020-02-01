@@ -1,0 +1,20 @@
+{
+  	{
+  		produto: ("Caju"), valor: 3.99, 
+  		tipo: {
+  			categoria: "Frutas", medida: "KG"
+  		}, data: "27/01/2020 14:03"
+  	},
+	{
+		produto: "Pipino", valor: 12.9,
+		tipo: {
+			categoria: "Frutas", medida: "KG"
+		}, data: "27/01/2020 14:03"
+	},
+	{
+		produto: "Cheiro-verde", valor: 2.00,
+		tipo: {
+			categoria: "Frutas", medida: "UNID"
+		}, data: "27/01/2020 14:03"
+	}
+}
